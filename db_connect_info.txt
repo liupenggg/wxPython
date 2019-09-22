@@ -1,0 +1,5 @@
+localhost
+patent
+3306
+root
+123456
