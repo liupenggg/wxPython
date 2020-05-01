@@ -12,5 +12,5 @@ Then:
 
 Finaly
 
-    运行main_page.p
+    运行main_page.py
 
