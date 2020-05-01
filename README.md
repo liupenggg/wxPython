@@ -5,7 +5,7 @@
 #### Usage
 First:
 
-    pip install  requirements.txt
+    pip install  wxPython
 Then:
 
      创建数据库
